@@ -1,0 +1,23 @@
+# HONESTY WHITE
+
+## Experience	
+
+#### 2017 – Present	FULL STACK Web DEVELOPER
+	Gourmet Swap - https://gswap.azurewebsites.net/
+
+	Gourmet Swap is community driven platform for local Chefs and foodies who value quality cuisine from local kitchens without the hassle and expense of dining out. GS offers a simple and straight forward search and discovery tools on a variety platforms including web/responsive featuring Google Maps and Directions implementation, an AI powered Bot built on top Azure's Language Understanding Intelligent Service  L.U.I.S and a new Alexa Skill aimed at making ordering more convenient. 
+
+Managed several versions of the Cook dashboard which chefs are provided to manage and promote their meals services and profiles.
+Created features that allow  Site Administrators to leverage a custom built CMS tool to promote custom content on the site that includes integrated Image-picker library.
+
+	Technologies include Visual Studio 2017, SQL Server Management Studio 2017, Team Foundation Server (TFS), Chrome Developer Tools, JSON Lint, Transact-SQL, JavaScript, MVC 5, Web API 2.x, JSON Serialization, AJAX, jQuery, AngularJS, Bootstrap 3.x, CSS3, AWS S3, MVC Attribute Routing, X-Editable, Gulp.
+
+#### 2015 – 2016	CUSTOMER SERVICE SPECIALIST
+	Various
+
+	Utilized a variety of technologies to provide excellent customer service, exceed expectations and sales goals.
+
+#### 2015 – 2017	SERVICE & LOGISTICS SPECIALIST
+	Red Cross
+
+	Utilized a variety of technologies to provide disaster relief services — such as food and shelter — to those affected by major disasters such as fires, hurricanes and tornadoes. Managed resources for a several blood drives.
